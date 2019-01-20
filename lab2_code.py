@@ -97,3 +97,5 @@ def play_war_game(testing=False):
 
 result = play_war_game()
 print("\n\nWinner is: {} - Player 1 scored {}, Player 2 scored {}".format(*result))
+
+#I'm adding a new comment here for the assignment purpose.
